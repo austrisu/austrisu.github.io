@@ -13,7 +13,7 @@ author:
     twitter: example
     # disqus: your_disqus_forum_shortname
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: "G-CP2QG153F4"
 
 # Syntax highlighting
 highlightstyle: ""
