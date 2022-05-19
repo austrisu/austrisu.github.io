@@ -3,7 +3,7 @@ layout: post
 title: "How to hello woarld, part2"
 subtitle: "Easy steps"
 date: 2022-05-19
-categories: [Category-0x01, Category-0x02, Category-0x03]
+categories: [category-0x01, category-0x02, category-0x03]
 ---
 
 Just a sample post to show some of the _typography_ elements supported.
