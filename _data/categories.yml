@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: category_0x01
+  name: category_0x01
 
-- slug: tools
-  name: Tools
+- slug: category_0x02
+  name: category_0x02
 
-- slug: productivity
-  name: Productivity
+- slug: category_0x03
+  name: category_0x03
