@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> Results-oriented engineer with extensive international background in software development, reverse engineering, cyber security, IoT, and industrial control systems. I bring a blend of multidisciplinary experience with an ability to learn fast to accomplish goals quick.
