@@ -11,6 +11,10 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
+  type: rootme
+  icon: 'fas fa-skull'
+  url: 'https://www.root-me.org/mayfly'
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true

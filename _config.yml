@@ -5,28 +5,25 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/austrisu.github.io"
+baseurl:
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
-
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/Riga
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-# Nifty bits,
+
 title: _austris # the main title
 
-tagline: Stuff I do to learn # it will display as the sub-title
+tagline: ... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  writeups, reverse engineering, assembly, python
+  Stuff I try to learn
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://austrisu.github.io"
@@ -34,29 +31,28 @@ url: "https://austrisu.github.io"
 github:
   username: austrisu # change to your github username
 
-# twitter:
-#   username: twitter_username # change to your twitter username
+twitter:
+  username: _austris # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Austris Uljans
-  # email: example@doamin.com # change to your email address
+  name: _austris
+  email: rand@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/austrisu # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/austris-uljans/
+    # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google_meta_tag_verification # change to your verification string
 
 # ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: "" # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -80,10 +76,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+#img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/avatar/pxArt.png
+avatar: "/assets/img/blog.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -106,6 +102,7 @@ comments:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
