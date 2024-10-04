@@ -9,7 +9,7 @@ permalink: /about/
   <td>09.30 - 10.01</td>
   <td><a href="https://cyberchess.lv/#ctf">CyberChess 2024</a></td>
   <td>CTF organized by <a href="https://cert.lv/">CERT.LV</a></td>
-  <td><a href="assets/cyberchess2024-scoreboard.jpg"> 1st place</a>, <a href="assets/cyberchess2024ctf-certificate.png"> certificate</a> ,team "Evosec"</td>
+  <td><a href="/images/cyberchess2024-scoreboard.jpg"> 1st place</a>, <a href="/images/cyberchess2024ctf-certificate.png"> certificate</a> ,team "Evosec"</td>
 </tr>
 </br>
 <tr>
