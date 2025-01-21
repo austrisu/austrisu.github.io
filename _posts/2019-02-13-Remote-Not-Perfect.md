@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: Remote Work- Great, But Not Perfect
 categories: [Miscellaneous, Jekyll]
 ---
 
