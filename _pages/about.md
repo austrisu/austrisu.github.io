@@ -18,19 +18,18 @@ Results-oriented engineer with extensive international background in software de
 
 <h2 style="text-align: left;">2025</h2>
 
-...
+**04.2025** : [Acquired OSCP+ certification](/images/oscp.png)
+**04.2025** : [Acquired OSWP certification](/images/oswp.png)
 
 <h2 style="text-align: left;">2024</h2>
 
-09.30 - 10.01 - [CyberChess 2024](https://cyberchess.lv/#ctf)
+**09.30 - 10.01** : [CyberChess 2024](https://cyberchess.lv/#ctf)
 CTF organized by [CERT.LV](https://cert.lv/)
 1st place in team "[Evosec](/images/cyberchess2024ctf-certificate.png)" [[scorebord](/images/cyberchess2024-scoreboard.jpg)]
 
-01.01 - 24.04 - Locked Shields 2024
+**01.01 - 24.04** : Locked Shields 2024
 Cyber defence exercise by [NATO CCDCoE](https://ccdcoe.org/)
 Organiser - Green team member, Responsibility - Android Malware development
-
-...
 
 <h2 style="text-align: left;">2023</h2>
 
