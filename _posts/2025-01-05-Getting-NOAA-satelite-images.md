@@ -5,8 +5,6 @@ categories: [Miscellaneous, Jekyll]
 ---
 
 
-## Goal
-
 The goal of this project is to capture weather satellite images. In the first part, I will outline the initial requirements for receiving satellite images and demonstrate how to do it using WebSDRs. In the second part, I will build an antenna and attempt to capture the signals myself.
 
 ## NOAA Satellite Signals
