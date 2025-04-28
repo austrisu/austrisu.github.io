@@ -10,8 +10,7 @@ Results-oriented engineer with extensive international background in software de
 
 <h1 style="text-align: left;">Research interests</h1>
 
-
-...
+I am passionate about low-level systems programming, security research, and hardware exploration. My interests include kernel development, embedded systems, drones, radio technologies, and space technologies. I enjoy working at the intersection of hardware and software, seeking innovative solutions to complex technical challenges.
 
 <h1 style="text-align: left;">Activities and achievements</h1>
 
@@ -19,6 +18,7 @@ Results-oriented engineer with extensive international background in software de
 <h2 style="text-align: left;">2025</h2>
 
 **04.2025** : [Acquired OSCP+ certification](/images/oscp.png)
+
 **04.2025** : [Acquired OSWP certification](/images/oswp.png)
 
 <h2 style="text-align: left;">2024</h2>
@@ -32,7 +32,6 @@ Cyber defence exercise by [NATO CCDCoE](https://ccdcoe.org/)
 Organiser - Green team member, Responsibility - Android Malware development
 
 <h2 style="text-align: left;">2023</h2>
-
 
 ...
 
